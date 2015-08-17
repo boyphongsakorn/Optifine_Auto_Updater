@@ -11,4 +11,4 @@
 2. จะใช้ เว็บเชิฟ ของ ร้านเกมแถวบ้าน [ร้านนี้ จ-ศ เปิด 16:30-21:30 ส่วน ส-อ เปิด 10:30-22:00] [ยังไม่แน่นอน]
 3. เชิฟMinecraft [แน่นอน]
 # ติดต่อ
-[Facebook](http://phongsakornwisetthon.zz.mu/facebook
+[Facebook](http://phongsakornwisetthon.zz.mu/facebook)

@@ -12,4 +12,4 @@
 3. เชิฟMinecraft [แน่นอน]
 
 # ติดต่อ
-[Facebook](http://phongsakornwisetthon.zz.mu/facebook)
+[Facebook](http://phongsakornwisetthon.zz.mu/facebook) หรือ [Twitter](http://phongsakornwisetthon.zz.mu/twitter)

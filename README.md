@@ -18,4 +18,4 @@
 ดาว์นโหลดแบบ อัดเดต แค่ Optifine เท่านั่น [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
 
 # ติดต่อ
-[Facebook](http://phongsakornwisetthon.zz.mu/facebook) , [Twitter](http://phongsakornwisetthon.zz.mu/twitter) หรือ  [E-mail](mailto:boyphongsakorn@outlook.com)
+[Facebook](http://phongsakornwisetthon.zz.mu/facebook) , [Twitter](http://phongsakornwisetthon.zz.mu/twitter) [เว็บบอร์ด](http://boyphongsakorn.zz.vc/forums/forum/optifine-auto-updater/) หรือ  [E-mail](mailto:boyphongsakorn@outlook.com)

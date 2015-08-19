@@ -13,7 +13,8 @@
 3. เชิฟMinecraft [กำลังทำ]
 
 # ดาว์นโหลดได้จากที่ไหน ?
-โหลดได้จาก หน้านี้เลยครับ [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
+ดาว์นโหลดแบบ มีตัวเกมส์แถม [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
+ดาว์นโหลดแบบ อัดเดต แค่ Optifine เท่านั่น [กำลังทำ]
 
 # ติดต่อ
 [Facebook](http://phongsakornwisetthon.zz.mu/facebook) , [Twitter](http://phongsakornwisetthon.zz.mu/twitter) หรือ  [E-mail](mailto:boyphongsakorn@outlook.com)

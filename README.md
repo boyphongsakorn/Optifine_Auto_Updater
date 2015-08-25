@@ -16,9 +16,9 @@
 # ตัว Update จะมีกี่แบบ
 ตัว Update มี 2 แบบ คือ สำหรับ Minecraft [แท้] และ MinecraftSP [เถื่อน] ส่วน Web hosting ที่จะมาใช้
 
-1. Hostinger.in.th [แน่นอน]
+1. Hostinger.in.th [ติดเรียน ยังไม่มีเวลาว่าง + เว็บถูกปิด]
 2. จะใช้ เว็บเชิฟ ของ ร้านเกมแถวบ้าน [ร้านนี้ จ-ศ เปิด 16:30-21:30 ส่วน ส-อ เปิด 10:30-22:00] [ยังไม่แน่นอน]
-3. เชิฟMinecraft [กำลังทำ]
+3. เชิฟMinecraft [รอ...]
 
 # ดาว์นโหลดได้จากที่ไหน ?
 ดาว์นโหลดแบบ มีตัวเกมส์แถม [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v1.7)

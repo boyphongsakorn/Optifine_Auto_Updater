@@ -28,7 +28,7 @@
 
 ดาว์นโหลดแบบ อัดเดต แต่่่่่่ Optifine เท่านั่น [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v1.7)
 
-ดาว์นโหลดแบบ ร้านเกมส์ [เฉพาะ ร้าน BR Internet เท่านั่น]
+ดาว์นโหลดแบบ ร้านเกมส์ [เฉพาะ ร้าน BR Internet เท่านั่น] (V.1.8)
 [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v1.8)
 
 # ติดต่อ

@@ -10,7 +10,7 @@
 ดังนั่น คุณต้องมีตัวเกม Minecraft อยู่แล้ว
 เมื่อติดตั้ง OAU ตั้งแต่ เวอร์ชั่น 1.9 ขี้นไป จะมีโปรแกรมที่ชื่อว่า Optifine Updater อยู่ที่ Desktop เพื่อที่ อัดเดตแล้ว เล่นเกมได้เลย
 
-ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://ads.boyphongsakorn.ga/work)
+ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://work.boyphongsakorn.ga/OAU_Update.html)
 # Optifine Auto Updater คืออะไร ?
 Update Optifine อัตโนมัติ เพื่อความสะดวกของท่าน !!
 # สิ่งที่จะนำมาใช้ในการทำ

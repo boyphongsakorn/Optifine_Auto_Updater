@@ -6,11 +6,6 @@
 Update Optifine อัตโนมัติ เพื่อความสะดวกของท่าน !!
 # สิ่งที่จะนำมาใช้ในการทำ
 ผมจะใช้ ตัวอัดเดต Patch ของ Thor Patcher ครับ
-# ตัว Update จะมีกี่แบบ
-ตัว Update มี 1 แบบ คือ สำหรับ Minecraft [แท้] ส่วน Web hosting ที่จะมาใช้
-
-1. Hostinger.in.th
-2. จะใช้ เว็บเชิฟ ที่บ้าน เป็นที่ทดสอบ
 
 # ดาว์นโหลดได้จากที่ไหน ?
 ดาว์นโหลดได้ที่นี้ [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)

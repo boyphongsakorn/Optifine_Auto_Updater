@@ -22,7 +22,7 @@ Update Optifine อัตโนมัติ เพื่อความสะด
 2. จะใช้ เว็บเชิฟ ที่บ้าน เป็นที่ทดสอบ
 
 # ดาว์นโหลดได้จากที่ไหน ?
-ดาว์นโหลดแบบ มีตัวเกมส์แถม [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v1.9)
+ดาว์นโหลดแบบ มีตัวเกมส์แถม [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
 
 ดาว์นโหลดแบบ อัดเดต แต่่่่่่ Optifine เท่านั่น [old/เก่า] [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v1.7)
 

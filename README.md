@@ -3,7 +3,7 @@
 
 ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://work.boyphongsakorn.ga/OAU_Update.html)
 # Optifine Auto Updater คืออะไร ?
-Update Optifine อัตโนมัติ เพื่อความสะดวกของท่าน !!
+Update Optifine อัตโนมัติ!!
 # สิ่งที่จะนำมาใช้ในการทำ
 ผมจะใช้ ตัวอัดเดต Patch ของ Thor Patcher ครับ
 # Donate With Paypal

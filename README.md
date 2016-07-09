@@ -1,15 +1,4 @@
-# ประกาศ
-Optifine Auto Updater Version 3.0 ออกแล้ว สามารถดูรายละเอียดได้[ที่นี้](http://oau.boyphongsakorn.ga)
+# ยินดีต้อนรับเข้าสู่ Optifine Auto Updater Beta ครับ
+Optifine Auto Updater Beta Version 3.0 ออกแล้ว สามารถดูรายละเอียดได้[ที่นี้](http://oau.boyphongsakorn.ga)
 
 ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://boyphongsakornproject.tumblr.com/)
-# Optifine Auto Updater คืออะไร ?
-Update Optifine อัตโนมัติ!!
-# สิ่งที่จะนำมาใช้ในการทำ
-ผมจะใช้ ตัวอัดเดต Patch ของ Thor Patcher ครับ
-# Donate With Paypal
-[Click Here!](https://streampro.io/tip/yoyoyo1556)
-# ดาว์นโหลดได้จากที่ไหน ?
-ดาว์นโหลดได้ที่นี้ [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
-
-# ติดต่อ
-[Facebook](http://ads.boyphongsakorn.ga/facebook) , [Twitter](http://ads.boyphongsakorn.ga/twitter) ,

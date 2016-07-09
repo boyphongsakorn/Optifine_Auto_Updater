@@ -12,4 +12,4 @@ Update Optifine อัตโนมัติ!!
 ดาว์นโหลดได้ที่นี้ [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
 
 # ติดต่อ
-[Facebook](http://ads.boyphongsakorn.ga/facebook) , [Twitter](http://ads.boyphongsakorn.ga/twitter) ,  [E-mail](mailto:boyphongsakorn@outlook.com)
+[Facebook](http://ads.boyphongsakorn.ga/facebook) , [Twitter](http://ads.boyphongsakorn.ga/twitter) ,

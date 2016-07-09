@@ -3,7 +3,7 @@ Optifine Auto Updater Version 3.0 ออกแล้ว สามารถดู
 
 ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://boyphongsakornproject.tumblr.com/)
 # Optifine Auto Updater คืออะไร ?
-Update Optifine อัตโนมัติ!!
+Update Optifine อัตโนมัติ โดยที่ไม่ต้อง Download แล้วมาติดตั้ง File ที่ล่ะอัน!!
 # สิ่งที่จะนำมาใช้ในการทำ
 ผมจะใช้ ตัวอัดเดต Patch ของ Thor Patcher ครับ
 # Donate With Paypal

@@ -1,7 +1,7 @@
 # ประกาศ
-ยินดีต้อนรับ เข้าสู่ Optifine Auto Update
+Optifine Auto Updater Version 3.0 ออกแล้ว สามารถดูรายละเอียดได้[ที่นี้](http://oau.boyphongsakorn.ga)
 
-ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://work.boyphongsakorn.ga/OAU_Update.html)
+ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://boyphongsakornproject.tumblr.com/)
 # Optifine Auto Updater คืออะไร ?
 Update Optifine อัตโนมัติ!!
 # สิ่งที่จะนำมาใช้ในการทำ

@@ -2,7 +2,7 @@
 Optifine Auto Updater Version 4.0 จะไม่มี MinecraftSP แล้ว ถ้าท่านต้องการที่จะใช้ ให้ใช้ เวอร์ชั่น [3.3](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v3.3) หรือ [2.3](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v2.3) แทนครับ
 
 #ประกาศ
-Optifine Auto Updater Version 3.3 ออกแล้ว สามารถดูรายละเอียดได้[ที่นี้](http://oau.boyphongsakorn.ga)
+Optifine Auto Updater Version 4.0 ออกแล้ว สามารถดูรายละเอียดได้[ที่นี้](http://oau.boyphongsakorn.ga)
 
 ดูการอัดเดต ทั้งหมด ได้ที่ [นี้ครับ](http://boyphongsakornproject.tumblr.com/)
 # Optifine Auto Updater คืออะไร ?

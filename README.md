@@ -1,10 +1,6 @@
-#Project is Close
-ทำการปิด Project เพราะช่วงนี้ผมไม่ค่อย มีเวลาว่างในการที่มาอัดเดต Optifine ให้
-กับ Server ไทย และ เกาหลี ได้ปิดไปแล้ว เลยทำให้ไม่สามารถ ใช้ตัว [OAUUpdateLauncher](https://github.com/boyphongsakorn/OAUUpdateLauncher) ได้เลย
-แต่ ตัว Version [3.1](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v3.1) ของUK ยังสามารถใช้ได้อยู่น่ะครับ แค่ไม่มีการอัดเดตตัว Optifine เวอร์ชั่นใหม่ แค่นั่นเองครับ
-
-**หมายเหตุ
-เวอร์ชั่น 3.1 Windows เห็นว่าเป็นไวรัส ถ้าโหลดแล้วโปรแกรมมันลบเองลองใช้ Version [2.3](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases/tag/v2.3) ดูครับ
+#Project is Reboot
+จะนำมาให้บริการอีกครั้ง
+แต่สามารถโหลดได้ที่ [dlcenter.boyphongsakorn.xyz](http://dlcenter.boyphongsakorn.xyz)เท่านั่นน่ะครับ ไม่มีให้โหลดใน Github น่ะครับ
 
 ดูการอัดเดต ทั้งหมด ได้[ที่นี้ครับ](http://boyphongsakornproject.tumblr.com/)
 # Optifine Auto Updater คืออะไร ?

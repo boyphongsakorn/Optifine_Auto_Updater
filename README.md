@@ -1,4 +1,4 @@
-#New Version
+#New Update
 Big Patch : new38.thor [รายละเอียด](http://ouo.io/Z7zBkX)
 
 Optifine Auto Updater 5.0 (Thai Only)

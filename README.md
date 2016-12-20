@@ -1,5 +1,6 @@
 #New Update
 Big Patch : new38.thor [รายละเอียด](http://ouo.io/Z7zBkX)
+Patch : new39.thor [รายละเอียด](http://ouo.io/ab8Ols)
 
 Optifine Auto Updater 5.1 (Thai & UK Server)
 ลิงค์ดาว์นโหลดคลิก[ที่นี้เลยครับ](http://ouo.io/5u80j)
@@ -12,7 +13,7 @@ Update Optifine อัตโนมัติ โดยที่ไม่ต้อ
 # Donate With Paypal
 [Click Here!](https://streampro.io/tip/yoyoyo1556)
 # ดาว์นโหลดได้จากที่ไหน ?
-ดาว์นโหลดได้ที่นี้ [คลิก](https://github.com/boyphongsakorn/Optifine_Auto_Updater/releases)
+ดาว์นโหลดได้ที่นี้ [คลิก](http://ouo.io/5u80j)
 
 # ติดต่อ
-[Facebook](https://www.facebook.com/theboyphongsakorn) , [Twitter](https://twitter.com/BoyPhongsakorn_) ,  [E-mail](mailto:boyphongsakorn@outlook.com)
+[Facebook](https://www.facebook.com/boyphongsakorn.ga) , [Twitter](https://twitter.com/BoyPhongsako_ga) ,  [E-mail](mailto:boyphongsakorn@outlook.com)

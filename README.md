@@ -1,7 +1,7 @@
 #New Update
 Big Patch : new38.thor [รายละเอียด](http://ouo.io/Z7zBkX)
 
-Patch : new39.thor [รายละเอียด](http://ouo.io/ab8Ols)
+Patch : new41.thor [รายละเอียด](http://ouo.io/V29cml)
 
 Optifine Auto Updater 5.1 (Thai & UK Server)
 ลิงค์ดาว์นโหลดคลิก[ที่นี้เลยครับ](http://ouo.io/5u80j)

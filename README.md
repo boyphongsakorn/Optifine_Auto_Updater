@@ -5,7 +5,7 @@ Update Optifine อัตโนมัติ โดยที่ไม่ต้อ
 # สิ่งที่จะนำมาใช้ในการทำ
 ผมจะใช้ ตัวอัดเดต Patch ของ Thor Patcher ครับ
 # Donate With Paypal
-[Click Here!](https://www.paypal.me/boyphongsakorn/50)
+[Click Here!](https://www.paypal.me/boyphongsakorn)
 # ดาว์นโหลดได้จากที่ไหน ?
 ดาว์นโหลดได้ที่นี้ [คลิก](http://ouo.io/5u80j)
 

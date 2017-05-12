@@ -53,3 +53,5 @@
 53 new47.thor
 54 new48.thor
 55 new49.thor
+56 new50.thor
+57 deshlu.thor

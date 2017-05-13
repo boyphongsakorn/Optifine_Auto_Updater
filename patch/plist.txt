@@ -58,4 +58,5 @@
 58 defold1.thor
 59 defold2.thor
 60 defold3.thor
-67 defold4.thor
+61 defold4.thor
+62 defold5.thor

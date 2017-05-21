@@ -60,3 +60,4 @@
 60 defold3.thor
 61 defold4.thor
 62 defold5.thor
+63 new51.thor

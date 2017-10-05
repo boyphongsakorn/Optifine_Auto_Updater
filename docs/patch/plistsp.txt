@@ -68,3 +68,4 @@
 67 new57.thor
 68 new58.thor
 69 new59.thor
+70 new60.thor

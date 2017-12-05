@@ -148,14 +148,6 @@
 </style>
 </head>
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/<?php if ($_SERVER["HTTP_CF_IPCOUNTRY"] == "TH") {echo "th_TH";}else {echo "en_us";} ?>/sdk.js#xfbml=1&version=v2.9";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 <nav class="navbar navbar-inverse">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -304,7 +296,6 @@ function googleTranslateElementInit() {
     <th><font color="white">* <img src="Minecraft.ico" width="25"> = Minecraft <img src="oc/image/op.png" width="25"> = Optifine</font></th>
   </tr>
 </table-->
-<div class="fb-comments" data-href="https://boyphongsakorn.github.io/Optifine_Auto_Updater/" data-numposts="5"></div>
 </div>
 </center>
 <div class="container-fluid">
@@ -394,5 +385,37 @@ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+<script>
+      window.fbMessengerPlugins = window.fbMessengerPlugins || {
+        init: function () {
+          FB.init({
+            appId            : '1678638095724206',
+            autoLogAppEvents : true,
+            xfbml            : true,
+            version          : 'v2.10'
+          });
+        }, callable: []
+      };
+      window.fbAsyncInit = window.fbAsyncInit || function () {
+        window.fbMessengerPlugins.callable.forEach(function (item) { item(); });
+        window.fbMessengerPlugins.init();
+      };
+      setTimeout(function () {
+        (function (d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) { return; }
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk/xfbml.customerchat.js";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      }, 0);
+      </script>
+      
+      <div
+        class="fb-customerchat"
+        page_id="173958059860283"
+        ref="">
+      </div>
 </body>
 </html>
